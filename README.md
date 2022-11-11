@@ -1,4 +1,3 @@
-# velosmazka.ru.github.io-
 velosmazka.ru
 <!DOCTYPE html>
 <html>
